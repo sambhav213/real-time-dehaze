@@ -1,4 +1,4 @@
-import cv2
+import opencv-python
 import numpy as np
 import image_dehazer
 def split_video_channels(mirror=False):
