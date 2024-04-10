@@ -1,5 +1,4 @@
 pandas
 numpy
 matplotlib
-opencv-python
-cv2
+opencv-python-headless
