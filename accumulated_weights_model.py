@@ -1,4 +1,4 @@
-import cv2
+import opencv-python
 import math
 import numpy as np
 def DarkChannel(im,sz):
