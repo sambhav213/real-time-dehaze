@@ -1,7 +1,7 @@
 import streamlit as st
 import base64
 from PIL import Image
-import cv2
+import opencv-python
 import accumulated_weights_model as awm
 import image_dehazer_model as idm
 import dcp_model as dcpm
