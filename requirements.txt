@@ -1,7 +1,6 @@
 pandas
 numpy
-matplotlib
-opencv-python-headless
+opencv-python-headless==4.5.1.48
 plotly==4.14.3
 #Pillow==9.0.1
 streamlit==1.10.0
